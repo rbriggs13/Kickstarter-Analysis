@@ -1,9 +1,9 @@
-# Kickstarting with Excel
+# Kickstarting Analysis
 
-## Overview of Project
+## Project Overview
 
 ### Purpose
-  The purpose of this project was to aid Louise in launching her play called Fever. This assistance could be provided by analyzing the data from past kickstarter projects that were plays. The outcomes of these projects could then be compared to both the launch dates and monetary goals of the various campaigns in order to determine a reasonable amount of money to ask for and when best to launch the kickstarter. 
+  The purpose of this project was to aid Louise in launching her play called _Fever_. This assistance could be provided by analyzing the data from past kickstarter projects that were plays. The outcomes of these projects could then be compared to both the launch dates and monetary goals of the various campaigns in order to determine a reasonable amount of money to ask for and when best to launch the kickstarter. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
